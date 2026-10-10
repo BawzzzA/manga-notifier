@@ -1,0 +1,5 @@
+config.json
+notifier.log
+__pycache__/
+*.pyc
+.claude/
